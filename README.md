@@ -15,11 +15,15 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yannick</h1>
 <h3 align="center">A passionate software developer and web3 / blockchain enthusiast</h3>
 
-<p align="left"> <a href="https://twitter.com/th30x_eth" target="blank"><img src="https://img.shields.io/twitter/follow/th30x_eth?logo=twitter&style=for-the-badge" alt="th30x_eth" /></a> </p>
+<p align="center"> <a href="https://twitter.com/th30x_eth" target="blank"><img src="https://img.shields.io/twitter/follow/th30x_eth?logo=twitter&style=for-the-badge" alt="th30x_eth" /></a> </p>
 
-- 🌱 I’m currently learning **blockchain engineering and react**
+As a computer science graduate I have broad knowledge of different topics in the digital field.
+Since 2021 I am actively involved in the blockchain and web3 space, connecting and supporting wherever I can.
 
-- 💬 Ask me about **python, solidity and js**
+My main drive is helping people on actual problems, equipping them with tools to achieve their goals.
+
+I’m currently learning **blockchain engineering and react**.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
